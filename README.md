@@ -23,13 +23,11 @@ This respiratory contains source codes and detailed instructions for successfull
 - Create an OpenRouter API to access LLMs
   1) Login to OpenRouter: https://openrouter.ai/
   2) Create an API by following these steps: **Settings / API Key / Create API Key**
-  3) Note: Some LLMs are free-of-charge, but some are not. Therefore, to prevent the sudden interuption during LLM runnig, we encourage to pay for API service.
+  3) Note: Some LLMs are **free-of-charge, but some are not**. Therefore, to prevent the sudden interuption during LLM runnig, we encourage to pay for API service.
 - Several LLMs take hours to complete generate solution for the entire 480 problems. Therefore, we encourage you to use Pro+ version of Google Colab platform.
 - Create a Google Drive folder to store LLMs outputs
-  <br>
 - Alternative, other platforms can be used to run LLMs on local machine but this will be memory-consuming.
-  <br>
-- Format your quantitative dataset to .CSV (Please use our dataset template).
+- Format your quantitative dataset to **.CSV (Please use our dataset template)**.
 # 3. Step-by-Step Re-implementation
 ## 3.1 Obtain OpenRouter LLM addresses from the OpenRouter portal
 - Login to OpenRouter: https://openrouter.ai/
@@ -50,7 +48,7 @@ user_max_token = 16384
 print("Done")
 
 ```
-Notes:
+**Notes**:
 - user_base_url="https://openrouter.ai/api/v1" might be changed by Openrouter overtime. To get the latest URL. Please refer to "base_url" field from this OpenRouter link: 
   https://openrouter.ai/docs/quickstart#using-the-openrouter-api-directly 
 ## 3.3 Upload dataset
@@ -75,7 +73,7 @@ run_model(
     saves = True                  // "True" if you want to save LLMs outputs, "No" otherwise.
 )
 ```
-- When the running is done. You will see a message "Done processing all problems"
+- When the running is done. You will see a message **"Done processing all problems"**
   ```python
   ....
   ....
