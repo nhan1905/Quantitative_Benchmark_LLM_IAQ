@@ -23,7 +23,8 @@ This respiratory contains source codes for of manuscrip
 - OpenRouter API to access LLMs
   1) Login to OpenRouter: https://openrouter.ai/
   2) Create an API by following these steps: **Settings / API Key / Create API Key**
-  (Note: Some LLM are free-of-charge, but some others are not. Therefore, to prevent the sudden interuption during LLM runnig, we encourage to pay for API service.)
-- In this study, we used Google Colab platform. Several LLMs takes hours to complete generate solution for the entire 480 problems. Therefore, we encourage user to use Pro+ version.
+  3) Note: Some LLMs are free-of-charge, but some are not. Therefore, to prevent the sudden interuption during LLM runnig, we encourage to pay for API service.
+- Several LLMs takes hours to complete generate solution for the entire 480 problems. Therefore, we encourage you to use Pro+ version of Google Colab platform.
 - Alternative, other platform can be used to run LLMs on local machine but this will be memory-consuming.
-# 3. 
+# 3. Step-by-Step Re-implementation
+
