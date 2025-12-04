@@ -18,7 +18,7 @@ Nhan Dinh Ngo<sup>1,2,*</sup>, Aijia Zhou<sup>2</sup>, Khang Nguyen Duy Lam<sup>
 <sup>5</sup>College of Engineering and Computer Science, VinUniversity, Hanoi 100000, Vietnam
 <br>
 # 1. Introduction
-This respiratory contains source codes and detaied instructions for successfully reproducing our manuscript.
+This respiratory contains source codes and detailed instructions for successfully reproducing our manuscript.
 # 2. Requirements for successfully re-implementing our mansucript
 - Create an OpenRouter API to access LLMs
   1) Login to OpenRouter: https://openrouter.ai/
