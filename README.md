@@ -3,7 +3,7 @@ Hi, welcome to our manuscript respiratory
 Quantitative Reasoning Evaluation of Large Language Model Performances in Indoor Air Quality Engineering
 </h1>
 <div align="center" style="font-size: 14px;">
-Nhan Dinh Ngo<sup>1,2,*</sup>, Aijia Zhou<sup>2</sup>, Khang Nguyen Duy Lam<sup>1</sup>, Andrew W. Taylor-Robinson<sup>2,4</sup>, Kok-Seng Wong<sup>1,5</sup>, Thanh H. Nguyen<sup>2</sup>
+Nhan Dinh Ngo<sup>1,2,*</sup>, Aijia Zhou<sup>2</sup>, Khang Nguyen Duy Lam<sup>1</sup>, Andrew W. Taylor-Robinson<sup>3,4</sup>, Kok-Seng Wong<sup>1,5</sup>, Thanh H. Nguyen<sup>2</sup>
 </div>
 <br>
 
