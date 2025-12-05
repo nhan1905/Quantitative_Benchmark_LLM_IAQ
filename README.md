@@ -100,5 +100,5 @@ run_model(
   ```
 - In this case, one thing you should do is that you should note the index of the problem, for example "Example 1152", and re-run it then.
 # 6. Conlusions 
-- We designed the code using Object Oriented Programming (OPP) methodology. This helps to well organize the code and minimizing the human effort to reproduce our work.
+- We designed the code using Object Oriented Programming (OOP) methodology. This helps to well organize the code and minimizing the human effort to reproduce our work.
 - Therefore, user can look into the coding blocks in source file for reference, but should not change any thing inside those blocks, except for aforementioned blocks here.
