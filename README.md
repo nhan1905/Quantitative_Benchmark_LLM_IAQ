@@ -1,4 +1,4 @@
-Hi, welcome to our manuscript respiratory
+Hi, welcome to our manuscript repository
 <h1 align = "center" >
 Quantitative Reasoning Evaluation of Large Language Model Performances in Indoor Air Quality Engineering
 </h1>
