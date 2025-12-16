@@ -3,19 +3,19 @@ Hi, welcome to our manuscript repository
 Quantitative Reasoning Evaluation of Large Language Model Performances in Indoor Air Quality Engineering
 </h1>
 <div align="center" style="font-size: 14px;">
-Nhan Dinh Ngo<sup>1,2,*</sup>, Aijia Zhou<sup>2</sup>, Khang Nguyen Duy Lam<sup>1</sup>, Andrew W. Taylor-Robinson<sup>3,4</sup>, Kok-Seng Wong<sup>1,5</sup>, Thanh H. Nguyen<sup>2</sup>
+Nhan Dinh Ngo<sup>a,b,*</sup>, Aijia Zhou<sup>b</sup>, Khang Nguyen Duy Lam<sup>a</sup>, Andrew W. Taylor-Robinson<sup>c,d</sup>, Kok-Seng Wong<sup>a,e</sup>, Thanh H. Nguyen<sup>b</sup>
 </div>
 <br>
 
-<sup>1</sup>VinUni-Illinois Smart Health Center, VinUniversity, Hanoi 100000, Vietnam
+<sup>a</sup>VinUni-Illinois Smart Health Center, VinUniversity, Hanoi 100000, Vietnam
 <br>
-<sup>2</sup>Department of Civil & Environmental Engineering, University of Illinois at Urbana−Champaign, Urbana, IL 61801, United States
+<sup>b</sup>Department of Civil & Environmental Engineering, University of Illinois at Urbana−Champaign, Urbana, IL 61801, United States
 <br>
-<sup>3</sup>College of Health Sciences, VinUniversity, Hanoi 100000, Vietnam
+<sup>c</sup>College of Health Sciences, VinUniversity, Hanoi 100000, Vietnam
 <br>
-<sup>4</sup>Center for Global Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA
+<sup>d</sup>Center for Global Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA
 <br>
-<sup>5</sup>College of Engineering and Computer Science, VinUniversity, Hanoi 100000, Vietnam
+<sup>e</sup>College of Engineering and Computer Science, VinUniversity, Hanoi 100000, Vietnam
 <br>
 # 1. Introduction
 This repository contains source codes and detailed instructions for successfully reproducing our manuscript.
